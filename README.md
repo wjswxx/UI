@@ -1,5 +1,14 @@
 ﻿# UIcomponents
+ 
+ # 1.SimpleAdapter
 
+实验截图：
+
+![](https://github.com/wjswxx/UI/blob/master/img/UI-1.jpg)
+
+代码：
+
+```
 
 MainActivity:
 
@@ -121,9 +130,17 @@ public class MainActivity extends Activity implements OnItemClickListener {
     }
 
 }
+```
 
+ # 2.AlertDialog.Builder
 
+实验截图：
 
+![](https://github.com/wjswxx/UI/blob/master/img/UI-2.jpg)
+
+代码：
+
+```
 
 Main2Activity:
 
@@ -225,7 +242,19 @@ public class Main2Activity extends Activity implements OnClickListener {
 
 }
 
+```
 
+ # 3.XML
+
+实验截图：
+
+![](https://github.com/wjswxx/UI/blob/master/img/UI3-1.jpg)
+
+![](https://github.com/wjswxx/UI/blob/master/img/UI3-2.jpg)
+
+代码：
+
+```
 
 Main3Activity:
 
@@ -308,8 +337,17 @@ public class Main3Activity extends AppCompatActivity {
     }
 }
 
+```
 
+ # 2.上下文菜单
 
+实验截图：
+
+![](https://github.com/wjswxx/UI/blob/master/img/UI4-1.jpg)
+
+代码：
+
+```
 
 Main4Activity:
 
@@ -435,3 +473,5 @@ public class Main4Activity extends Activity {
     }
 
 }
+
+```
